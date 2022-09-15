@@ -1,0 +1,24 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: black;
+}
+.note{
+    font-size: 14px;
+    color: black;
+    background-color: hotpink;
+}
+.note2{
+    font-size: 14px;
+    color: black;
+    background-color: hotpink;
+}
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid coral;
+    border-radius: 20px;
+}
